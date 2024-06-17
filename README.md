@@ -1,4 +1,4 @@
-# Bayesian-Classifier
+# Bayesian Classifier to classify mails as spam or not spam
 
 A simple bayesian classifier to classify mails as spam and not spam 
 
